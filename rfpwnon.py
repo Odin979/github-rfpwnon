@@ -244,4 +244,3 @@ while(startn < brutelength):
 print ("")
 print ("Done.")
 d.setModeIDLE()
-
